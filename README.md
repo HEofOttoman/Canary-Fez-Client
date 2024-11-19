@@ -3,12 +3,12 @@
 ## Client
 Original from-scratch chat client written in HTML, CSS and TS.
 
-Uses the Spacebar APi by Rory&
+Uses the Spacebar APi by the creators of Spacebar.chat.
 
 Forked By HenryWauzivuff, for the purpose of Ottoman takeover & contributing to the original
 
 ## Credits:
-- QUizzityMC (Dev)
+- QuizzityMC (Dev)
 - HenryWauzivuff (Designer)
 - Risk (Dev)
 
