@@ -1,11 +1,11 @@
 # Canary Chat
 
 ## Client
-Original from-scratch chat client written in HTML, CSS and TS.
+An original from-scratch chat client written in HTML, CSS and TS.
 
 Uses the Spacebar APi by the creators of Spacebar.chat.
 
-Forked By HenryWauzivuff, for the purpose of Ottoman takeover & contributing to the original
+Forked By HenryWauzivuff, for the purpose of contributing to the original
 
 ## Credits:
 - QuizzityMC (Dev)
@@ -13,5 +13,5 @@ Forked By HenryWauzivuff, for the purpose of Ottoman takeover & contributing to 
 - Risk (Dev)
 
 ## To-Do List:
-- [ ] Add red fez theme
-- [ ] Change logo
+- [ ] Fix cursed bird logo
+- [ ] Integrate with api
